@@ -1,0 +1,1 @@
+This is just a fun practice project to work with some python and explore pygame!
